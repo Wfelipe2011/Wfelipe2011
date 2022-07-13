@@ -1,14 +1,13 @@
-### Olá rede 👋
+### Olá, sou Wilson 👋
 
-- 🔭 Desenvolvedor FullStack
-- 🌱 Arquitetura de Software
-
+ ##
 
 <div align="center">
   <a href="https://github.com/Wfelipe2011">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wfelipe2011&show_icons=true&title_color=blue&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wfelipe2011&layout=compact&langs_count=7&title_color=blue&theme=dracula"/>
 </div>
+<h2>Linguagens e Frameworks que trabalho</h2>
 <div style="display: inline_block"><br>
 <img align="center" alt="Wilson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
 <img align="center" alt="Wilson-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />         
@@ -24,7 +23,7 @@
 </div>
   
   ##
- 
+ <h2>Contato</h2>
 <div> 
   <a href = "mailto:contatoWfelipe2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wilson-felipe-725538176" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
